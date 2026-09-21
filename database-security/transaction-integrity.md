@@ -16,7 +16,5 @@ exposing raw balance data to every caller.
    start transaction;
    update ACCOUNT set Balance = Balance - 1000 where ID = 2;
    update ACCOUNT set Balance = Balance + 500 where ID = 3;
-   rollback;   ```
-![MySQL Workbench — transaction rollback test](Screenshot%20(1)
-
-.png)
+   rollback;   
+![MySQL Workbench — transaction rollback test](Screenshot%20(1).png)
