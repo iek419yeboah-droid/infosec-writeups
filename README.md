@@ -8,3 +8,5 @@ InfoSec student — write-ups on wireless security, CTFs, and tooling.
 ## About
 Currently studying BSc Information Security. Interested in wireless
 security, network tooling, and hands-on CTF practice.
+
+- [Transaction Integrity & Conditional Stored Procedures](database-security/transaction-integrity.md)
