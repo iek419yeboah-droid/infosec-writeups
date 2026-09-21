@@ -12,11 +12,11 @@ exposing raw balance data to every caller.
 ## Approach
 1. Simulated a balance transfer between two accounts inside an explicit
    transaction block:
-![MySQL Workbench — transaction rollback test](Screenshot%20(1)
-
-.png)
    ```sql
    start transaction;
    update ACCOUNT set Balance = Balance - 1000 where ID = 2;
    update ACCOUNT set Balance = Balance + 500 where ID = 3;
-   rollback;
+   rollback;   ```
+![MySQL Workbench — transaction rollback test](Screenshot%20(1)
+
+.png)
