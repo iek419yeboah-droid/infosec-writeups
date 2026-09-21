@@ -1,4 +1,4 @@
-# info# Isaac's Security Portfolio
+# Isaac's Security Portfolio
 
 InfoSec student — write-ups on wireless security, CTFs, and tooling.
 
@@ -7,4 +7,4 @@ InfoSec student — write-ups on wireless security, CTFs, and tooling.
 
 ## About
 Currently studying BSc Information Security. Interested in wireless
-security, network tooling, and hands-on CTF practice.sec-writeups
+security, network tooling, and hands-on CTF practice.
